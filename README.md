@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Proyecto desplegado
+
+[Link a la pagina](https://dapper-baklava-3c264c.netlify.app/)
+
+## Recursos a usar en el proyecto
+
+[Bootstrap react](https://react-bootstrap.github.io/getting-started/introduction)
+
+[Hook: useState](https://es.reactjs.org/docs/hooks-state.html)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
